@@ -1,0 +1,4 @@
+Zip code is accepted with Complete Alphabets.
+Entered Last Name and Zip code in Checkout Information. It gives Enter First Name error. After entering First Name, the error has to disappear. But its not happening. Its going off only when clicked on checkout.
+Empty cart is also able to checkout.
+After adding an item and navigating to the checkout , if we remove that item, still able to proceed with checkout with zero items.
